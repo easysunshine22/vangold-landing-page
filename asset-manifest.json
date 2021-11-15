@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c24336a3.chunk.css",
+    "main.js": "/static/js/main.6c38ed23.chunk.js",
+    "main.js.map": "/static/js/main.6c38ed23.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ad0a5d7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ad0a5d7.js.map",
+    "static/js/2.8fe21ab8.chunk.js": "/static/js/2.8fe21ab8.chunk.js",
+    "static/js/2.8fe21ab8.chunk.js.map": "/static/js/2.8fe21ab8.chunk.js.map",
+    "static/js/3.9af72968.chunk.js": "/static/js/3.9af72968.chunk.js",
+    "static/js/3.9af72968.chunk.js.map": "/static/js/3.9af72968.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c24336a3.chunk.css.map": "/static/css/main.c24336a3.chunk.css.map",
+    "static/js/2.8fe21ab8.chunk.js.LICENSE.txt": "/static/js/2.8fe21ab8.chunk.js.LICENSE.txt",
+    "static/media/Your Photo Here.c14cb187.png": "/static/media/Your Photo Here.c14cb187.png",
+    "static/media/bg1.4b718cb3.png": "/static/media/bg1.4b718cb3.png",
+    "static/media/bg2.464e6eb3.png": "/static/media/bg2.464e6eb3.png",
+    "static/media/bg3.1702f043.png": "/static/media/bg3.1702f043.png",
+    "static/media/card-img1.4dfe9301.png": "/static/media/card-img1.4dfe9301.png",
+    "static/media/card-img2.5728560e.png": "/static/media/card-img2.5728560e.png",
+    "static/media/card-img3.b463242c.png": "/static/media/card-img3.b463242c.png",
+    "static/media/card1.2eb2603f.png": "/static/media/card1.2eb2603f.png",
+    "static/media/card2.f2caf645.png": "/static/media/card2.f2caf645.png",
+    "static/media/card3.09ebf726.png": "/static/media/card3.09ebf726.png",
+    "static/media/App.css": "/static/media/menu7.1932cdb7.png",
+    "static/media/new-img.10536829.jpeg": "/static/media/new-img.10536829.jpeg",
+    "static/media/new-img1.1f6a2016.jpeg": "/static/media/new-img1.1f6a2016.jpeg",
+    "static/media/roadmap-bg.206b3efa.png": "/static/media/roadmap-bg.206b3efa.png",
+    "static/media/telegram.7fa733a4.svg": "/static/media/telegram.7fa733a4.svg",
+    "static/media/unsplash_Zyx1bK9mqmA.43261749.png": "/static/media/unsplash_Zyx1bK9mqmA.43261749.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ad0a5d7.js",
+    "static/js/2.8fe21ab8.chunk.js",
+    "static/css/main.c24336a3.chunk.css",
+    "static/js/main.6c38ed23.chunk.js"
+  ]
+}
